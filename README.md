@@ -1,6 +1,6 @@
 # ECC
 
-* Note: Unable to connect to postgres db via my python script 
+* Note: Unable to connect to postgres db in docker container via my python script 
   * (Though the DB initializes with two tables `eod` and `intraday` generated using the `init.sql` upon launching the docker containers)
   * Launch using docker-compose up -d
   * localhost:8080 endpoint - Adminer GUI to view data in Postgres
