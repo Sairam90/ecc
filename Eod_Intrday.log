@@ -1,0 +1,9 @@
+13:10:25,414 root INFO [2023-02-27:] Eod file schema validation complete, Result - True
+13:10:25,415 root INFO [2023-02-27:] Eod file schema validation complete, Result -  True
+13:10:25,425 root ERROR [2023-02-27:] Discrepancy in Eod and intraday records
+13:10:25,429 root ERROR [2023-02-27:] - Diff records -   clearing member account margin type  margin      _merge
+5        'Bank 2'    'A1'      'SPAN'  8766.4   left_only
+6        'Bank 2'    'A1'      'IMSM'  8766.4  right_only)
+14:07:18,111 root INFO [2023-02-27:] Eod file schema validation complete, Result - True
+14:07:18,111 root INFO [2023-02-27:] Eod file schema validation complete, Result -  True
+14:07:18,131 root INFO [2023-02-27:] Eod and intraday records match!
